@@ -1,2 +1,2 @@
-# Tech-Company-Project
+# Hydro-Gauge
 Group 8 Project
